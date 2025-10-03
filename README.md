@@ -117,21 +117,19 @@
   </div>
 
   <div id="chapter2" class="chapter">
-    <h2>Capítulo 2: [Título do Capítulo 2]</h2>
-    <p>Aqui você pode escrever o próximo capítulo do livro...</p>
+    <h2>Capítulo 2:Em breve... </h2>
+    <p>Em breve......</p>
   </div>
 
-  <div id="chapter3" class="chapter">
-    <h2>Capítulo 3: [Título do Capítulo 3]</h2>
-    <p>Aqui você pode escrever o próximo capítulo do livro...</p>
-  </div>
-</main>
+  
 
 <footer>
   <p>© 2025 Turma do Kelvin. Todos os direitos reservados.</p>
 </footer>
 
-<script>
+<h3> Autor:Bruno Manoel de brito<\h3>
+
+  <script>
   function showChapter(num) {
     const chapters = document.querySelectorAll('.chapter');
     chapters.forEach(c => c.classList.remove('active'));
