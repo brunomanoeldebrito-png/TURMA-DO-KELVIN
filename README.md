@@ -71,12 +71,6 @@
   <p>Uma aventura incrível no Parque do Arco-Íris!</p>
 </header>
 
-<nav>
-  <button onclick="showChapter(1)">Capítulo 1</button>
-  <button onclick="showChapter(2)">Capítulo 2</button>
-  <button onclick="showChapter(3)">Capítulo 3</button>
-  <!-- Você pode adicionar mais capítulos aqui -->
-</nav>
 
 <main>
   <div id="chapter1" class="chapter active">
