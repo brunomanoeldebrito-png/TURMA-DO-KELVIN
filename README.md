@@ -127,15 +127,5 @@
   <p>© 2025 Turma do Kelvin. Todos os direitos reservados.</p>
 </footer>
 
-<h3> Autor:Bruno Manoel de brito<\h3>
-
-  <script>
-  function showChapter(num) {
-    const chapters = document.querySelectorAll('.chapter');
-    chapters.forEach(c => c.classList.remove('active'));
-    document.getElementById('chapter' + num).classList.add('active');
-  }
-</script>
-
-</body>
-</html># TURMA-DO-KELVIN
+<p> Autor:Bruno Manoel de brito<\p>
+<\footer>
