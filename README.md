@@ -116,16 +116,10 @@
     <p>E assim, a Turma do Kelvin começou a maior aventura de suas vidas, sem imaginar que o Rio Encantado guardava desafios que testariam coragem, amizade e criatividade como nunca antes.</p>
   </div>
 
-  <div id="chapter2" class="chapter">
-    <h2>Capítulo 2:Em breve... </h2>
-    <p>Em breve......</p>
-  </div>
-
-  
+ <h2> Capitulo 2 em breve....</h2>
 
 <footer>
   <p>© 2025 Turma do Kelvin. Todos os direitos reservados.</p>
 </footer>
 
-<p> Autor:Bruno Manoel de brito<\p>
-<\footer>
+<p> Autor:Bruno Manoel de brito
